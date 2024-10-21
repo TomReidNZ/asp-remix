@@ -1,0 +1,13 @@
+C:\Users\treid\dev\aspire-samples\samples\AspireWithNode\AspireWithNode.ServiceDefaults\bin\Debug\net8.0\AspireWithNode.ServiceDefaults.deps.json
+C:\Users\treid\dev\aspire-samples\samples\AspireWithNode\AspireWithNode.ServiceDefaults\bin\Debug\net8.0\AspireWithNode.ServiceDefaults.dll
+C:\Users\treid\dev\aspire-samples\samples\AspireWithNode\AspireWithNode.ServiceDefaults\bin\Debug\net8.0\AspireWithNode.ServiceDefaults.pdb
+C:\Users\treid\dev\aspire-samples\samples\AspireWithNode\AspireWithNode.ServiceDefaults\obj\Debug\net8.0\AspireWithNode.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\treid\dev\aspire-samples\samples\AspireWithNode\AspireWithNode.ServiceDefaults\obj\Debug\net8.0\AspireWithNode.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\treid\dev\aspire-samples\samples\AspireWithNode\AspireWithNode.ServiceDefaults\obj\Debug\net8.0\AspireWithNode.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\treid\dev\aspire-samples\samples\AspireWithNode\AspireWithNode.ServiceDefaults\obj\Debug\net8.0\AspireWithNode.ServiceDefaults.AssemblyInfo.cs
+C:\Users\treid\dev\aspire-samples\samples\AspireWithNode\AspireWithNode.ServiceDefaults\obj\Debug\net8.0\AspireWithNode.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\treid\dev\aspire-samples\samples\AspireWithNode\AspireWithNode.ServiceDefaults\obj\Debug\net8.0\AspireWithNode.ServiceDefaults.sourcelink.json
+C:\Users\treid\dev\aspire-samples\samples\AspireWithNode\AspireWithNode.ServiceDefaults\obj\Debug\net8.0\AspireWithNode.ServiceDefaults.dll
+C:\Users\treid\dev\aspire-samples\samples\AspireWithNode\AspireWithNode.ServiceDefaults\obj\Debug\net8.0\refint\AspireWithNode.ServiceDefaults.dll
+C:\Users\treid\dev\aspire-samples\samples\AspireWithNode\AspireWithNode.ServiceDefaults\obj\Debug\net8.0\AspireWithNode.ServiceDefaults.pdb
+C:\Users\treid\dev\aspire-samples\samples\AspireWithNode\AspireWithNode.ServiceDefaults\obj\Debug\net8.0\ref\AspireWithNode.ServiceDefaults.dll

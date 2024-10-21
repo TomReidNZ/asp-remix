@@ -1,0 +1,26 @@
+# Base Node image
+FROM node:20-alpine as base
+
+# Install dependencies
+FROM base as deps
+WORKDIR /app
+COPY package.json package-lock.json ./
+RUN npm ci
+
+# Build the app
+FROM base as build
+WORKDIR /app
+COPY --from=deps /app/node_modules ./node_modules
+COPY . .
+RUN npm run build
+
+# Production image, copy all the files and run the app
+FROM base as production
+ENV NODE_ENV=production
+WORKDIR /app
+COPY --from=deps /app/node_modules ./node_modules
+COPY --from=build /app/build ./build
+COPY --from=build /app/public ./public
+COPY package.json ./
+
+CMD ["npm", "start"]

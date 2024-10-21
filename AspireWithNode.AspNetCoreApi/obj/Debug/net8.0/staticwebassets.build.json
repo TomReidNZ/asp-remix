@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jiBJcv6cH6+F3gpkN0VC1VmdCEUsQXVgLJh1/dLIEwQ=",
+  "Source": "AspireWithNode.AspNetCoreApi",
+  "BasePath": "_content/AspireWithNode.AspNetCoreApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
