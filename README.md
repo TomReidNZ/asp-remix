@@ -1,3 +1,17 @@
+# Hi Seth
+
+Make sure you have docker installed and running. It should just work with the CLI or visual studio.
+
+The main thing probably to note (other than I haven't done much with the ASP settings) is the dev environment isn't working properly between the two. I assume it's running npm build then npm start. I got around this by changing the npm start in the `package.json`
+
+```
+    "start": "cross-env NODE_ENV=production remix-serve ./build/server/index.js",
+```
+
+The Remix instance is simply the latest with Vite and tailwind. There's a bunch of extra telemetry within the ASP project for the Node instance which could be interesting (I assume that's one of the big benefits of running Node within ASP).
+
+**There's no git ignore so it'll be a bit of a pain without a clean up.**
+
 ---
 languages:
 - csharp
